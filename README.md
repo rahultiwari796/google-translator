@@ -11,7 +11,7 @@ Translate Markdown document on Google Translate
 
 **Languages**
 
-`"Afrikaans": "af",  
+"Afrikaans": "af",
 "Albanian": "sq",
 "Arabic": "ar",
 "Belarusian": "be",
@@ -61,4 +61,4 @@ Translate Markdown document on Google Translate
 "Ukrainian": "uk",
 "Vietnamese": "vi",
 "Welsh": "cy",
-"Yiddish": "yi"`
+"Yiddish": "yi"
