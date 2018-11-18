@@ -13,7 +13,7 @@ Translate Markdown document on Google Translate
 
 "Afrikaans": "af",<br>
 "Albanian": "sq",<br>
-"Arabic": "ar",<br>  
+"Arabic": "ar",<br>
 "Belarusian": "be",<br>
 "Bulgarian": "bg",<br>
 "Catalan": "ca",<br>
