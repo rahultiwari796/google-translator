@@ -9,7 +9,7 @@ Translate Markdown document on Google Translate
 
 `python3 data_translator.py`
 
-**Languages**
+**Locales**
 
 "Afrikaans": "af",  
 "Albanian": "sq",  
