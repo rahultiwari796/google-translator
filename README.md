@@ -11,9 +11,9 @@ Translate Markdown document on Google Translate
 
 **Languages**
 
-"Afrikaans": "af",
-"Albanian": "sq",
-"Arabic": "ar",
+"Afrikaans": "af",<br>
+"Albanian": "sq",\n
+"Arabic": "ar",  
 "Belarusian": "be",
 "Bulgarian": "bg",
 "Catalan": "ca",
