@@ -3,9 +3,9 @@ Translate Markdown document on Google Translate
 
 **prerequisite**
 
-Internet
+`Internet`
 
-Python3
+`Python3`
 
 **Install**
 
