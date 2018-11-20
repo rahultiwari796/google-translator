@@ -1,6 +1,11 @@
 # google-translator
 Translate Markdown document on Google Translate
 
+**prerequisite**
+
+Internet
+Python3
+
 **Install**
 
 `$ pip3 install py_translator==1.8.9`
